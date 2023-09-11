@@ -1,8 +1,8 @@
 {
-  "name": "notesapp",
+  "name": "notes-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://neha-dongre.github.io/notesapp",
+  "homepage": "https://neha-dongre.github.io/notes-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
